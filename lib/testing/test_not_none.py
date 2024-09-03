@@ -7,4 +7,3 @@ def test_return_not_none():
     assert True
 
 
-# fo the new line 
